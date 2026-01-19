@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>RSSrelay Test</title>
+    <link>https://isdbag.github.io/feed-9f3c2a/myhub.rss</link>
+    <description>Test feed</description>
+    <item>
+      <title>Hello from GitHub Pages</title>
+      <link>https://example.com/</link>
+      <guid>https://example.com/hello</guid>
+      <pubDate>Mon, 19 Jan 2026 12:00:00 +0000</pubDate>
+      <description>It works.</description>
+    </item>
+  </channel>
+</rss>
