@@ -1,15 +1,82 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-  <channel>
-    <title>RSSrelay Test</title>
-    <link>https://isdbag.github.io/feed-9f3c2a/myhub.rss</link>
-    <description>Test feed</description>
-    <item>
-      <title>Hello from GitHub Pages</title>
-      <link>https://example.com/</link>
-      <guid>https://example.com/hello</guid>
-      <pubDate>Mon, 19 Jan 2026 12:00:00 +0000</pubDate>
-      <description>It works.</description>
-    </item>
-  </channel>
+
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>MyHub News</title>
+        <link>https://www.ntu.ac.uk/studenthub/news/</link>
+        <atom:link href="https://www.ntu.ac.uk/studenthub/news/student-news-rss-feed-custom/_nocache?key=dazquJT19P5z" rel="self" type="application/rss+xml"/>
+        <description>NTU Student News</description>
+        <language>en-gb</language>
+        <copyright>Copyright (C) 2022 Nottingham Trent University (www.ntu.ac.uk)</copyright>
+        <item>
+    <title>Free and low-cost creative activities to try in January</title>
+    <description>January is the perfect time to try something new and there are plenty of free and low-cost opportunities to get involved in with over the next few weeks.</description>
+    <media:thumbnail url="https://www.ntu.ac.uk/studenthub/?a=2794032"/>
+    <link>https://www.ntu.ac.uk/studenthub/news/2026/01/free-and-low-cost-creative-activities-to-try-in-january</link>
+    <pubDate>Wed, 14 Jan 2026 16:04:28 +0000</pubDate>
+    <guid>https://www.ntu.ac.uk/studenthub/news/2026/01/free-and-low-cost-creative-activities-to-try-in-january</guid>
+</item><item>
+    <title>Come celebrate the new Clifton Global Lounge with us</title>
+    <description>We’re excited to announce the official opening of the new Clifton Global Lounge. Come along on Thursday 22 January to network with new friends and enjoy some global-themed crafts.</description>
+    <media:thumbnail url="https://www.ntu.ac.uk/studenthub/?a=2793479"/>
+    <link>https://www.ntu.ac.uk/studenthub/news/2026/01/come-celebrate-the-new-clifton-global-lounge-with-us</link>
+    <pubDate>Wed, 14 Jan 2026 13:59:15 +0000</pubDate>
+    <guid>https://www.ntu.ac.uk/studenthub/news/2026/01/come-celebrate-the-new-clifton-global-lounge-with-us</guid>
+</item><item>
+    <title>Introducing NTU Discover: Flexible, skills-boosting learning you can do anytime</title>
+    <description>Looking for small, practical ways to boost your skills alongside your studies? Explore NTU&#039;s two new Discover modules focusing on Generative AI and entrepreneurship.</description>
+    <media:thumbnail url="https://www.ntu.ac.uk/studenthub/?a=2792682"/>
+    <link>https://www.ntu.ac.uk/studenthub/news/2026/01/introducing-ntu-discover</link>
+    <pubDate>Tue, 13 Jan 2026 10:14:39 +0000</pubDate>
+    <guid>https://www.ntu.ac.uk/studenthub/news/2026/01/introducing-ntu-discover</guid>
+</item><item>
+    <title>New Year, New Deals at NTU </title>
+    <description>We are kicking off the new year with some exclusive deals at NTU Sport, making it easier than ever to keep fit and save some money.</description>
+    <media:thumbnail url="https://www.ntu.ac.uk/studenthub/?a=2782894"/>
+    <link>https://www.ntu.ac.uk/studenthub/news/2026/01/new-year,-new-deals-at-ntu</link>
+    <pubDate>Mon, 12 Jan 2026 08:37:13 +0000</pubDate>
+    <guid>https://www.ntu.ac.uk/studenthub/news/2026/01/new-year,-new-deals-at-ntu</guid>
+</item><item>
+    <title>Your January Welcome unlocked</title>
+    <description>Your essential guide to the first weeks of Term for new and returning students.</description>
+    <media:thumbnail url="https://www.ntu.ac.uk/studenthub/?a=2578509"/>
+    <link>https://www.ntu.ac.uk/studenthub/news/2026/01/your-january-welcome-unlocked</link>
+    <pubDate>Mon, 12 Jan 2026 10:16:24 +0000</pubDate>
+    <guid>https://www.ntu.ac.uk/studenthub/news/2026/01/your-january-welcome-unlocked</guid>
+</item><item>
+    <title>A greener way to get to Uni</title>
+    <description>Hire a bike for just £1 a week? Yes please! See the ways you can travel sustainably this term while also maximising your money.</description>
+    <media:thumbnail url="https://www.ntu.ac.uk/studenthub/?a=2779267"/>
+    <link>https://www.ntu.ac.uk/studenthub/news/2026/01/a-greener-way-to-get-to-uni</link>
+    <pubDate>Mon, 12 Jan 2026 13:48:56 +0000</pubDate>
+    <guid>https://www.ntu.ac.uk/studenthub/news/2026/01/a-greener-way-to-get-to-uni</guid>
+</item><item>
+    <title>Some of our online services will be unavailable from Friday 9 January – Monday 12 January</title>
+    <description>Due to essential maintenance, there will be a scheduled break in some of our online services from 5pm on Friday 9 January until 8am on Monday 12 January. </description>
+    <media:thumbnail url="https://www.ntu.ac.uk/studenthub/?a=2046333"/>
+    <link>https://www.ntu.ac.uk/studenthub/news/2026/01/some-of-our-online-services-will-be-unavailable-from-friday-9-january-monday-12-january</link>
+    <pubDate>Tue, 06 Jan 2026 12:26:31 +0000</pubDate>
+    <guid>https://www.ntu.ac.uk/studenthub/news/2026/01/some-of-our-online-services-will-be-unavailable-from-friday-9-january-monday-12-january</guid>
+</item><item>
+    <title>Student Dashboard temporarily unavailable from 6–8 January</title>
+    <description>We’re making important upgrades to the NTU Student Dashboard ahead of Term Two to ensure it continues to support your learning and engagement.</description>
+    <media:thumbnail url="https://www.ntu.ac.uk/studenthub/?a=2046333"/>
+    <link>https://www.ntu.ac.uk/studenthub/news/2025/12/student-dashboard-temporarily-unavailable-from-68-january</link>
+    <pubDate>Wed, 17 Dec 2025 12:32:27 +0000</pubDate>
+    <guid>https://www.ntu.ac.uk/studenthub/news/2025/12/student-dashboard-temporarily-unavailable-from-68-january</guid>
+</item><item>
+    <title>A cup of tea with the VC</title>
+    <description>As Term One ends, our Vice-Chancellor catches up with NTSU President, Libby, for a hot drink and chat about his NTU journey so far and what they’re both looking forward to this Christmas.</description>
+    <media:thumbnail url="https://www.ntu.ac.uk/studenthub/?a=2767699"/>
+    <link>https://www.ntu.ac.uk/studenthub/news/2025/12/a-cup-of-tea-with-the-vc</link>
+    <pubDate>Fri, 12 Dec 2025 11:16:41 +0000</pubDate>
+    <guid>https://www.ntu.ac.uk/studenthub/news/2025/12/a-cup-of-tea-with-the-vc</guid>
+</item><item>
+    <title>Save the date for Bonington Gallery’s next exhibition launch</title>
+    <description>Join us for the launch of Bonington Gallery’s brand-new exhibition, layt de kam, on Friday 16 January, 6 – 8 pm.</description>
+    <media:thumbnail url="https://www.ntu.ac.uk/studenthub/?a=2767558"/>
+    <link>https://www.ntu.ac.uk/studenthub/news/2025/12/save-the-date-for-bonington-gallerys-next-exhibition-launch</link>
+    <pubDate>Fri, 12 Dec 2025 10:12:06 +0000</pubDate>
+    <guid>https://www.ntu.ac.uk/studenthub/news/2025/12/save-the-date-for-bonington-gallerys-next-exhibition-launch</guid>
+</item>
+    </channel>
 </rss>
