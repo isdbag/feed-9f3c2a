@@ -9,6 +9,13 @@
         <language>en-gb</language>
         <copyright>Copyright (C) 2022 Nottingham Trent University (www.ntu.ac.uk)</copyright>
         <item>
+    <title>Have you had the meningitis vaccine?</title>
+    <description>Meningitis is a life-threatening infectious disease and students can be vulnerable to it due to close living arrangements.</description>
+    <media:thumbnail url="https://www.ntu.ac.uk/studenthub/?a=2853598"/>
+    <link>https://www.ntu.ac.uk/studenthub/news/2026/03/have-you-had-the-meningitis-vaccine</link>
+    <pubDate>Tue, 17 Mar 2026 13:55:19 +0000</pubDate>
+    <guid>https://www.ntu.ac.uk/studenthub/news/2026/03/have-you-had-the-meningitis-vaccine</guid>
+</item><item>
     <title>Nottingham retains Purple Flag for safe and vibrant nightlife </title>
     <description>Nottingham has been granted the Purple Flag award for the sixteenth consecutive year! The award recognises the diversity, vibrancy and safety of a night out in the city.</description>
     <media:thumbnail url="https://www.ntu.ac.uk/studenthub/?a=2850458"/>
@@ -71,13 +78,6 @@
     <link>https://www.ntu.ac.uk/studenthub/news/2026/02/live-music-to-look-forward-to-this-term</link>
     <pubDate>Wed, 25 Feb 2026 12:54:03 +0000</pubDate>
     <guid>https://www.ntu.ac.uk/studenthub/news/2026/02/live-music-to-look-forward-to-this-term</guid>
-</item><item>
-    <title>Don't miss the NTU Spring Careers Fair!</title>
-    <description>Visit the Spring Careers Fair on Tuesday 3 March, 11 am–3 pm in the Newton building, City Campus, to explore graduate roles, part‑time jobs, placements and summer opportunities with top employers.</description>
-    <media:thumbnail url="https://www.ntu.ac.uk/studenthub/?a=2843411"/>
-    <link>https://www.ntu.ac.uk/studenthub/news/2026/02/dont-miss-the-ntu-spring-careers-fair!</link>
-    <pubDate>Tue, 24 Feb 2026 14:09:34 +0000</pubDate>
-    <guid>https://www.ntu.ac.uk/studenthub/news/2026/02/dont-miss-the-ntu-spring-careers-fair!</guid>
 </item>
     </channel>
 </rss>
