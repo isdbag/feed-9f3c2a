@@ -9,6 +9,13 @@
         <language>en-gb</language>
         <copyright>Copyright (C) 2022 Nottingham Trent University (www.ntu.ac.uk)</copyright>
         <item>
+    <title>Live, Learn, Work</title>
+    <description>At NTU, learning is about more than a degree – it&#039;s about the person you become. Find out how we can support you through Live, Learn, Work.</description>
+    <media:thumbnail url="https://www.ntu.ac.uk/studenthub/?a=2866486"/>
+    <link>https://www.ntu.ac.uk/studenthub/news/2026/04/live,-learn,-work</link>
+    <pubDate>Wed, 15 Apr 2026 15:16:35 +0100</pubDate>
+    <guid>https://www.ntu.ac.uk/studenthub/news/2026/04/live,-learn,-work</guid>
+</item><item>
     <title>Your renters’ rights are changing – here’s what you need to know </title>
     <description>From Friday 1 May 2026 most renters’ rights are changing with the introduction of the Renters’ Rights Act 2025.  </description>
     <media:thumbnail url="https://www.ntu.ac.uk/studenthub/?a=2865970"/>
@@ -71,13 +78,6 @@
     <link>https://www.ntu.ac.uk/studenthub/news/2026/03/introducing-denizen-records-ntus-in-house-record-label</link>
     <pubDate>Wed, 18 Mar 2026 16:33:08 +0000</pubDate>
     <guid>https://www.ntu.ac.uk/studenthub/news/2026/03/introducing-denizen-records-ntus-in-house-record-label</guid>
-</item><item>
-    <title>Managing NTU’s digital storage limits</title>
-    <description>Over the next couple of months, we’ll be tidying up old versions of files across our Microsoft 365 platform. Find out what’s happening and how you can help manage your digital storage.</description>
-    <media:thumbnail url="https://www.ntu.ac.uk/studenthub/?a=2854531"/>
-    <link>https://www.ntu.ac.uk/studenthub/news/2026/03/managing-ntus-digital-storage-limits</link>
-    <pubDate>Thu, 19 Mar 2026 11:04:34 +0000</pubDate>
-    <guid>https://www.ntu.ac.uk/studenthub/news/2026/03/managing-ntus-digital-storage-limits</guid>
 </item>
     </channel>
 </rss>
