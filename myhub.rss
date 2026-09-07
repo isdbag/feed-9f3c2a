@@ -9,6 +9,13 @@
         <language>en-gb</language>
         <copyright>Copyright (C) 2022 Nottingham Trent University (www.ntu.ac.uk)</copyright>
         <item>
+    <title>Issue when downloading the MyNTU app for new Android 17 users </title>
+    <description>We&#039;re aware of an issue affecting some students who are trying to install the MyNTU app on Android devices.</description>
+    <media:thumbnail url="https://www.ntu.ac.uk/studenthub/?a=2046333"/>
+    <link>https://www.ntu.ac.uk/studenthub/news/2026/09/issue-when-downloading-the-myntu-app-for-new-android-17-users</link>
+    <pubDate>Mon, 07 Sep 2026 16:30:32 +0100</pubDate>
+    <guid>https://www.ntu.ac.uk/studenthub/news/2026/09/issue-when-downloading-the-myntu-app-for-new-android-17-users</guid>
+</item><item>
     <title>New murals bring colour and creativity to campus </title>
     <description>Four painted murals have been designed and installed across City and Clifton campuses and the community this summer, as part of an annual project by NTU Arts and Nottingham School of Art  and  Design.</description>
     <media:thumbnail url="https://www.ntu.ac.uk/studenthub/?a=2925247"/>
@@ -71,13 +78,6 @@
     <link>https://www.ntu.ac.uk/studenthub/news/2026/06/improving-our-data-security-updates-to-public-site-settings</link>
     <pubDate>Tue, 30 Jun 2026 13:56:19 +0100</pubDate>
     <guid>https://www.ntu.ac.uk/studenthub/news/2026/06/improving-our-data-security-updates-to-public-site-settings</guid>
-</item><item>
-    <title>Make a difference on campus — become a HealthyNTU Champion  </title>
-    <description>If you’re passionate about wellbeing and love getting involved, come join us!</description>
-    <media:thumbnail url="https://www.ntu.ac.uk/studenthub/?a=2891872"/>
-    <link>https://www.ntu.ac.uk/studenthub/news/2026/06/apply-now-to-become-a-healthyntu-champion</link>
-    <pubDate>Wed, 10 Jun 2026 12:49:55 +0100</pubDate>
-    <guid>https://www.ntu.ac.uk/studenthub/news/2026/06/apply-now-to-become-a-healthyntu-champion</guid>
 </item>
     </channel>
 </rss>
