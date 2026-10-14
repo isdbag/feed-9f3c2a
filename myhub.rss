@@ -9,6 +9,13 @@
         <language>en-gb</language>
         <copyright>Copyright (C) 2022 Nottingham Trent University (www.ntu.ac.uk)</copyright>
         <item>
+    <title>What does your online presence say about you?</title>
+    <description>Your digital footprint matters more than you think. Take our new online module to learn how to maximise your online potential.</description>
+    <media:thumbnail url="https://www.ntu.ac.uk/studenthub/?a=2943624"/>
+    <link>https://www.ntu.ac.uk/studenthub/news/2026/10/what-does-your-online-presence-say-about-you</link>
+    <pubDate>Wed, 14 Oct 2026 13:34:18 +0100</pubDate>
+    <guid>https://www.ntu.ac.uk/studenthub/news/2026/10/what-does-your-online-presence-say-about-you</guid>
+</item><item>
     <title>Join the leaders of the future with our Black Leadership Programme </title>
     <description>The Black Leadership Programme (BLP) is a personal and professional development programme for second-year students of Black and mixed Black heritage.</description>
     <media:thumbnail url="https://www.ntu.ac.uk/studenthub/?a=2943535"/>
@@ -71,13 +78,6 @@
     <link>https://www.ntu.ac.uk/studenthub/news/2026/10/could-you-be-one-of-10-students-receiving-1,000</link>
     <pubDate>Mon, 05 Oct 2026 09:44:42 +0100</pubDate>
     <guid>https://www.ntu.ac.uk/studenthub/news/2026/10/could-you-be-one-of-10-students-receiving-1,000</guid>
-</item><item>
-    <title>Managing NTU's digital storage: New Microsoft Teams retention rules</title>
-    <description>As part of ongoing work to make better use of digital storage and strengthen security, we&#039;re introducing changes to how long Microsoft Teams recordings, transcripts and chat messages are retained.</description>
-    <media:thumbnail url="https://www.ntu.ac.uk/studenthub/?a=2939179"/>
-    <link>https://www.ntu.ac.uk/studenthub/news/2026/10/new-microsoft-teams-retention-rules</link>
-    <pubDate>Mon, 05 Oct 2026 09:44:49 +0100</pubDate>
-    <guid>https://www.ntu.ac.uk/studenthub/news/2026/10/new-microsoft-teams-retention-rules</guid>
 </item>
     </channel>
 </rss>
