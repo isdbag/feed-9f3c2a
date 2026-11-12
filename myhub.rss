@@ -9,6 +9,13 @@
         <language>en-gb</language>
         <copyright>Copyright (C) 2022 Nottingham Trent University (www.ntu.ac.uk)</copyright>
         <item>
+    <title>Creative events to enjoy this Christmas with NTU Arts</title>
+    <description>NTU Arts has a cracking lineup of creative events to look forward to this December.</description>
+    <media:thumbnail url="https://www.ntu.ac.uk/studenthub/?a=2957535"/>
+    <link>https://www.ntu.ac.uk/studenthub/news/2026/11/creative-events-to-enjoy-this-christmas-with-ntu-arts</link>
+    <pubDate>Thu, 12 Nov 2026 10:13:14 +0000</pubDate>
+    <guid>https://www.ntu.ac.uk/studenthub/news/2026/11/creative-events-to-enjoy-this-christmas-with-ntu-arts</guid>
+</item><item>
     <title>Observing Remembrance Day</title>
     <description>On Wednesday 11 November there will be a two-minute silence at 11am. Read more.</description>
     <media:thumbnail url="https://www.ntu.ac.uk/studenthub/?a=1869095"/>
@@ -71,13 +78,6 @@
     <link>https://www.ntu.ac.uk/studenthub/news/2026/10/ntu-womens-fc-make-historic-progress-in-fa-cup</link>
     <pubDate>Tue, 27 Oct 2026 13:12:44 +0000</pubDate>
     <guid>https://www.ntu.ac.uk/studenthub/news/2026/10/ntu-womens-fc-make-historic-progress-in-fa-cup</guid>
-</item><item>
-    <title>*Updated* Temporary access issues affecting some NTU systems</title>
-    <description>You may be aware that yesterday a global cyber-security issue was identified, linked to a vulnerability within the PHP programming language.</description>
-    <media:thumbnail url="https://www.ntu.ac.uk/studenthub/?a=2550063"/>
-    <link>https://www.ntu.ac.uk/studenthub/news/2026/10/php-programming-issue</link>
-    <pubDate>Fri, 23 Oct 2026 16:09:36 +0100</pubDate>
-    <guid>https://www.ntu.ac.uk/studenthub/news/2026/10/php-programming-issue</guid>
 </item>
     </channel>
 </rss>
