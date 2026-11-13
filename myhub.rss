@@ -9,6 +9,13 @@
         <language>en-gb</language>
         <copyright>Copyright (C) 2022 Nottingham Trent University (www.ntu.ac.uk)</copyright>
         <item>
+    <title>UPDATED 12 pm  - Microsoft global outage - some NTU systems unavailable and others running slower than usual</title>
+    <description>Microsoft has confirmed that their recovery work is continuing and services remain variable following the global outage.</description>
+    <media:thumbnail url="https://www.ntu.ac.uk/studenthub/?a=975914"/>
+    <link>https://www.ntu.ac.uk/studenthub/news/2026/11/updated-microsoft-global-outage-some-ntu-systems-unavailable-and-others-running-slower-than-usual</link>
+    <pubDate>Fri, 13 Nov 2026 12:06:16 +0000</pubDate>
+    <guid>https://www.ntu.ac.uk/studenthub/news/2026/11/updated-microsoft-global-outage-some-ntu-systems-unavailable-and-others-running-slower-than-usual</guid>
+</item><item>
     <title>Microsoft global outage - some NTU systems unavailable and others running slower than usual</title>
     <description>You may have seen in the news this morning, Friday 13 November, Microsoft has reported a global outage impacting users of services including Teams, Outlook and Co-pilot.</description>
     <media:thumbnail url="https://www.ntu.ac.uk/studenthub/?a=975914"/>
@@ -71,13 +78,6 @@
     <link>https://www.ntu.ac.uk/studenthub/news/2026/11/inter-faith-week-at-ntu-lighting-the-way-for-a-shared-future</link>
     <pubDate>Tue, 03 Nov 2026 15:02:14 +0000</pubDate>
     <guid>https://www.ntu.ac.uk/studenthub/news/2026/11/inter-faith-week-at-ntu-lighting-the-way-for-a-shared-future</guid>
-</item><item>
-    <title>University‑wide network upgrade Monday 21 December</title>
-    <description>On Monday 21 December, there will be an essential IT network upgrade taking place.</description>
-    <media:thumbnail url="https://www.ntu.ac.uk/studenthub/?a=2953011"/>
-    <link>https://www.ntu.ac.uk/studenthub/news/2026/11/universitywide-network-upgrade-monday-21-december</link>
-    <pubDate>Wed, 04 Nov 2026 10:50:26 +0000</pubDate>
-    <guid>https://www.ntu.ac.uk/studenthub/news/2026/11/universitywide-network-upgrade-monday-21-december</guid>
 </item>
     </channel>
 </rss>
