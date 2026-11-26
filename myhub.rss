@@ -9,6 +9,13 @@
         <language>en-gb</language>
         <copyright>Copyright (C) 2022 Nottingham Trent University (www.ntu.ac.uk)</copyright>
         <item>
+    <title>Get a taste of Christmas at NTU</title>
+    <description>Get into the festive spirit with a delicious Christmas dinner from NTU Food this December.</description>
+    <media:thumbnail url="https://www.ntu.ac.uk/studenthub/?a=2962932"/>
+    <link>https://www.ntu.ac.uk/studenthub/news/2026/11/get-a-taste-of-christmas-at-ntu</link>
+    <pubDate>Thu, 26 Nov 2026 11:35:19 +0000</pubDate>
+    <guid>https://www.ntu.ac.uk/studenthub/news/2026/11/get-a-taste-of-christmas-at-ntu</guid>
+</item><item>
     <title>Become a Green Impact Project Assistant</title>
     <description>Volunteer for Green Impact, a sustainability awards programme that has run in over 300 organisations across the world.</description>
     <media:thumbnail url="https://www.ntu.ac.uk/studenthub/?a=2951362"/>
@@ -71,13 +78,6 @@
     <link>https://www.ntu.ac.uk/studenthub/news/2026/11/updated-2pm-microsoft-global-outage-ntu-systems-recovering</link>
     <pubDate>Fri, 13 Nov 2026 14:47:33 +0000</pubDate>
     <guid>https://www.ntu.ac.uk/studenthub/news/2026/11/updated-2pm-microsoft-global-outage-ntu-systems-recovering</guid>
-</item><item>
-    <title>UPDATED 12 pm  - Microsoft global outage - some NTU systems unavailable and others running slower than usual</title>
-    <description>Microsoft has confirmed that their recovery work is continuing and services remain variable following the global outage.</description>
-    <media:thumbnail url="https://www.ntu.ac.uk/studenthub/?a=975914"/>
-    <link>https://www.ntu.ac.uk/studenthub/news/2026/11/updated-microsoft-global-outage-some-ntu-systems-unavailable-and-others-running-slower-than-usual</link>
-    <pubDate>Fri, 13 Nov 2026 12:06:16 +0000</pubDate>
-    <guid>https://www.ntu.ac.uk/studenthub/news/2026/11/updated-microsoft-global-outage-some-ntu-systems-unavailable-and-others-running-slower-than-usual</guid>
 </item>
     </channel>
 </rss>
